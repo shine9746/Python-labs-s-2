@@ -1,2 +1,2 @@
 a = input("Enter a string : ")
-print(len(a))
+print("Length of string",a,"is",len(a))
