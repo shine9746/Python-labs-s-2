@@ -5,5 +5,5 @@ for i in a:
         b[i] += 1
     else:
         b[i] = 1
-print (str(b))
+print ("Character frequency of the string ",a,"is - ",str(b))
 
