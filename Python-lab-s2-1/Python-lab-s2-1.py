@@ -1,4 +1,4 @@
-#shows all possible strings of a,e,i,o,u , using the characters exactlty once
+#shows all possible strings of a,e,i,o,u 
 
 import random
 x = ["a","e","i","o","u"]
