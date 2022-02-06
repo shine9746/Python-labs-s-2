@@ -1,6 +1,6 @@
 a =("arno","bayek","connor","edward")
 
-b = a[::-1]
+b = a[::-1]  #reversed tuple
 
 print(type(b))
 
