@@ -1,4 +1,4 @@
-a = input("Enter a string : ")
+a = input("Enter a string : ").casefold()
 b = {}
 for i in a:
     if i in b:
