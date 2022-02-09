@@ -1,3 +1,4 @@
+#Converted list of characters into string
 a = ["a","p","p","l","e"]
 
 x = ""
